@@ -1,4 +1,4 @@
-#Over view 
+# Over view 
 This is a C++ program that simulates a Stone, Paper, Scissors game where a player competes against the computer. The game follows standard rules:  
 
 - Stone beats Scissors  
