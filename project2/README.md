@@ -10,10 +10,10 @@ At the end, you’ll see your final score (right and wrong answers).
 Clone the repo and compile the code:
 bash
 
-g++ -o MathQuiz MathQuiz.cpp
+''' g++ -o MathQuiz MathQuiz.cpp '''
 Run the game:
 bash
-./MathQuiz
+''' ./MathQuiz '''
 Follow the on-screen instructions to pick the difficulty, operations, and number of rounds.
 
 ## Controls
