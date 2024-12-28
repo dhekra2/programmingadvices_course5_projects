@@ -7,10 +7,10 @@ You’ll get immediate feedback on whether your answer is right or wrong.
 Green for correct answers, red for wrong ones (with the correct answer shown).
 At the end, you’ll see your final score (right and wrong answers).
 ## How to Play
-Clone the repo and compile the code:
+Clone the repo and compile the code:  <br>
 ``` g++ -o MathQuiz MathQuiz.cpp ```
 
-Run the game:
+Run the game:<br>
 ``` ./MathQuiz ```
 
 ## Controls
