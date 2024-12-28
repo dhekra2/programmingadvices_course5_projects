@@ -1,10 +1,10 @@
 #include <iostream>
-#include <cstdlib>  // For rand() and srand()
+#include <cstdlib> 
 #include <ctime>
 using namespace std;
 
 
-enum enQuestionLevel { easy = 1, mid = 2, hard = 3, mix = 4 };  // computer options also could user options
+enum enQuestionLevel { easy = 1, mid = 2, hard = 3, mix = 4 };  
 enum enOperationType { Sum = 1, sub = 2, divi = 3, multi = 4, Mix = 5 };
 struct QuestionResult {
 	short RoundNumber;
