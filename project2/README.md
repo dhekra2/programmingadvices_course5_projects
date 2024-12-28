@@ -1,4 +1,4 @@
-# Math Quiz Game
+[[[[# Math Quiz Game
 This is a simple math quiz game where you can test and improve your arithmetic skills! You get to choose the difficulty level, the types of operations, and how many questions you want to answer.
 ## Features
 Difficulty levels: Easy, Mid, Hard, and Mix.
@@ -8,13 +8,10 @@ Green for correct answers, red for wrong ones (with the correct answer shown).
 At the end, you’ll see your final score (right and wrong answers).
 ## How to Play
 Clone the repo and compile the code:
-bash
+``` g++ -o MathQuiz MathQuiz.cpp ```
 
-''' g++ -o MathQuiz MathQuiz.cpp '''
 Run the game:
-bash
-''' ./MathQuiz '''
-Follow the on-screen instructions to pick the difficulty, operations, and number of rounds.
+``` ./MathQuiz ```
 
 ## Controls
 Enter your answers and press Enter.
@@ -31,3 +28,4 @@ Hope you enjoy the game and improve your math skills!
 
 
 
+](url)]([url](url))](url)](url)
