@@ -1,4 +1,4 @@
-[[[[# Math Quiz Game
+# Math Quiz Game
 This is a simple math quiz game where you can test and improve your arithmetic skills! You get to choose the difficulty level, the types of operations, and how many questions you want to answer.
 ## Features
 Difficulty levels: Easy, Mid, Hard, and Mix.
@@ -22,10 +22,3 @@ Try to stay within the expected input formats to avoid issues.
 
 
 Hope you enjoy the game and improve your math skills!
-
-
-
-
-
-
-](url)]([url](url))](url)](url)
